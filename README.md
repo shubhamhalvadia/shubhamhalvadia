@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Arpita Lonakadi</h1>
+<h1 align="center">Hi 👋, I'm Shubham Halvadia</h1>
 <!-- <h3 align="center">Not just a data analyst—your new favorite dashboard detective.</h3> -->
 
-- 🌱 I’m currently learning **how to predict the future… with data, not a crystal ball.**
+- 🌱 I’m currently learning **how to design, build, and deploy—front to back, end to end.**
 
 
-- 📫 How to reach me **lonakadiarpita@gmail.com**
+- 📫 How to reach me **shubhamhalvadiac@gmail.com**
 
 
-- ⚡ Fun fact - I speak 6 human languages (and a few programming ones too)
+- ⚡ Fun fact - Whether it’s code or curry, I enjoy building things from scratch.
 -  **My Motto: Turning data chaos into order—one algorithm at a time!**
 
 <h3 align="left">Connect with me:</h3>
